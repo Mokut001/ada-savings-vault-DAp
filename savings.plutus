@@ -1,0 +1,5 @@
+{
+  "type": "PlutusScriptV2",
+  "description": "ADA Savings Goal Contract",
+  "cborHex": "PLACEHOLDER_COMPILED_SCRIPT"
+}
